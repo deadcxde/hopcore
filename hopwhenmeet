@@ -1,0 +1,6 @@
+_G.HopWhenPrefix = 'Fim_' -- Hop server when see another player with this part in nickname
+_G.HopWhenNickname = {
+    ""
+} -- Hop server when see that nickname
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/deadcxde/hopcore/main/hopcore"))()
