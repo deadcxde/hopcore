@@ -5,7 +5,7 @@ end
 
 if BF == true then
     if _G.HopWhenMeetLoaded then 
-		print("Already loaded")
+		print("Already loaded1")
 	else
 		_G.HopWhenMeetLoaded = 1
 		print("Loaded")
